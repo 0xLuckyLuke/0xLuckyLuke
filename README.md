@@ -60,6 +60,7 @@
 ### Communication
 - Twitter: [[0xLuckyLuke](https://x.com/0xLuckyLuke)]
 - Email: 0xLuckyLuke@proton.me
+- Discord: @0xLuckyLuke
 <!-- 
 ## Notable Achievements
 1. Ranked #5 on Code4rena leaderboard (2024)
