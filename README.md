@@ -50,7 +50,7 @@
 - Cantina: [@hermit](https://cantina.xyz/u/hermit)
 
 ### Communication
-<!-- - Twitter: [Invite Link] -->
+- Twitter: [[0xLuckyLuke](https://x.com/0xLuckyLuke)]
 - Email: 0xLuckyLuke@proton.me
 <!-- 
 ## Notable Achievements
