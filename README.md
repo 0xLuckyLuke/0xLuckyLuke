@@ -12,7 +12,7 @@
 
 | Date | Project | Type | Severity Found | Status |
 |------|---------|------|----------------|---------|
-| Jan 2024 | Puffer | Vault | 3 High, 5 Low, 15 Informational  | Completed |
+| Jan 2024 | Puffer | Vault | 1 High, 5 Low, 15 Informational  | Completed |
 
 
 ## Public Contest Performance
