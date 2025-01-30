@@ -21,16 +21,9 @@
 
 | Contest | Date | Ranking | Findings | Prize |
 |---------|------|---------|----------|-------|
-| Collar Protocol | Dec 2024 | - | 1 Medium, 6 Low, 2 Gas optimization | 15 ETH |
+| Collar Protocol | Dec 2024 | - | 1 Medium, 6 Low, 2 Gas optimization | - |
 
-
-### Sherlock Contests
-
-| Contest | Date | Ranking | Findings | Prize |
-|---------|------|---------|----------|-------|
-| Protocol X | Jan 2025 | 3rd | 1 Critical | 20 ETH |
-| Protocol Y | Dec 2024 | 1st | 2 High | 12 ETH |
-
+<!--
 ## Bug Bounty Platforms
 
 ### Immunefi Submissions
@@ -39,7 +32,7 @@
 |---------|------|----------|---------|--------|
 | DeFi Protocol 1 | Jan 2025 | Critical | Paid | 50 ETH |
 | Bridge Protocol | Nov 2024 | High | Paid | 25 ETH |
-<!--
+
 ## Total Metrics (2024-2025)
 
 | Category | Count |
@@ -54,7 +47,7 @@
 
 ### Main Platforms
 - Code4rena: [@0xLuckyLuke](https://code4rena.com/@0xLuckyLuke)
-- Cantina: [@team_handle](https://cantina.xyz/u/hermit)
+- Cantina: [@hermit](https://cantina.xyz/u/hermit)
 
 ### Communication
 <!-- - Twitter: [Invite Link] -->
