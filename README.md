@@ -23,6 +23,13 @@
 |---------|------|---------|----------|-------|
 | Collar Protocol | Dec 2024 | - | 1 Medium, 6 Low, 2 Gas optimization | - |
 
+### codehawks Contests
+
+| Contest | Date | Ranking | Findings | Prize |
+|---------|------|---------|----------|-------|
+| MorpheusAI | Jan 2024 | - | 1 Low | - |
+| The Standard | Jan 2024 | - | 1 High | - |
+
 <!--
 ## Bug Bounty Platforms
 
@@ -48,6 +55,7 @@
 ### Main Platforms
 - Code4rena: [@0xLuckyLuke](https://code4rena.com/@0xLuckyLuke)
 - Cantina: [@hermit](https://cantina.xyz/u/hermit)
+- codehawks: [@0xluckyluke](https://profiles.cyfrin.io/u/0xluckyluke)
 
 ### Communication
 - Twitter: [[0xLuckyLuke](https://x.com/0xLuckyLuke)]
