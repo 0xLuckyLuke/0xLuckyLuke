@@ -27,7 +27,7 @@
 
 | Contest | Date | Ranking | Findings | Prize |
 |---------|------|---------|----------|-------|
-| MorpheusAI | Jan 2024 | - | 1 Low | - |
+| MorpheusAI | Feb 2024 | - | 1 Low | - |
 | The Standard | Jan 2024 | - | 1 High | - |
 
 <!--
