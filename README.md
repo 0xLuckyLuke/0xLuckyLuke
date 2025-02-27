@@ -27,6 +27,8 @@
 
 | Contest | Date | Ranking | Findings | Prize |
 |---------|------|---------|----------|-------|
+| Core Contracts | Feb 2025 | - | 3 High | - |
+| Core Contracts | Feb 2025 | - | 2 Medium | - |
 | MorpheusAI | Feb 2024 | - | 1 Low | - |
 | The Standard | Jan 2024 | - | 1 High | - |
 
