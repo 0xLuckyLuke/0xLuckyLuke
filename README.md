@@ -23,7 +23,7 @@
 |---------|------|---------|----------|-------|-------|
 | Collar Protocol | Dec 2024 | - | 1 Medium | - | [1](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings/438) |
 | Collar Protocol | Dec 2024 | - | 2 Gas optimization | - | [1](), [2]() |
-| Collar Protocol | Dec 2024 | - | 6 Informational | - | [1](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings/412),[2](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings/408),[2](),[2]() |
+| Collar Protocol | Dec 2024 | - | 6 Informational | - | [1](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings/412),[2](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings/408),[3](),[4](),[5](),[6]() |
 ### codehawks Contests
 
 | Contest | Date | Ranking | Findings | Prize | Links |
