@@ -25,13 +25,13 @@
 
 ### codehawks Contests
 
-| Contest | Date | Ranking | Findings | Prize |
-|---------|------|---------|----------|-------|
-| Core Contracts | Feb 2025 | - | 3 High | - |
-| Core Contracts | Feb 2025 | - | 2 Medium | - |
-| Core Contracts | Feb 2025 | - | 2 Low | - |
-| MorpheusAI | Feb 2024 | - | 1 Low | - |
-| The Standard | Jan 2024 | - | 1 High | - |
+| Contest | Date | Ranking | Findings | Prize | Links |
+|---------|------|---------|----------|-------|-------|
+| RustFund | Apr 2025 | - | 2 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/23), [2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/25) |
+| RustFund | Apr 2025 | - | 2 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/26) ,[2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/30)  |
+| RustFund | Apr 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/27)  |
+| MorpheusAI | Feb 2024 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/425) |
+| The Standard | Jan 2024 | - | 1 High | - $ |  [1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1236) |
 
 <!--
 ## Bug Bounty Platforms
