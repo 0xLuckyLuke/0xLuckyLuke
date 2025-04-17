@@ -28,6 +28,8 @@
 
 | Contest | Date | Ranking | Findings | Prize | Links |
 |---------|------|---------|----------|-------|-------|
+| Eggstravaganza | Apr 2025 | - | 2 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/120), [2](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/122) |
+| Eggstravaganza | Apr 2025 | - | 1 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-04-eggstravaganza/s/124) |
 | RustFund | Apr 2025 | - | 2 High | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/23), [2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/25) |
 | RustFund | Apr 2025 | - | 2 Medium | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/26) ,[2](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/30)  |
 | RustFund | Apr 2025 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2025-03-rustfund/s/27)  |
