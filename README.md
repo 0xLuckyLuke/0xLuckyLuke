@@ -37,6 +37,29 @@
 | MorpheusAI | Feb 2024 | - | 1 Low | - $ |  [1](https://codehawks.cyfrin.io/c/2024-01-Morpheus/s/425) |
 | The Standard | Jan 2024 | - | 1 High | - $ |  [1](https://codehawks.cyfrin.io/c/2023-12-the-standard/s/1236) |
 
+### code4rena Contests
+
+| Project | Date | Ranking | Findings | Prize | Links |
+|---------|------|---------|----------|-------|-------|
+|  Holograph | Oct 22 | - | 1 Low | 55.67 USDC |  [1](https://code4rena.com/reports/2022-10-holograph#low-risk-and-non-critical-issues) |
+|  Holograph | Oct 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-10-holograph#gas-optimizations) |
+|  The Graph | Oct 22 | - | 1 Gas optimization | $20.79 |  [1](https://code4rena.com/reports/2022-10-thegraph#gas-optimizations) |
+|  QuickSwap and StellaSwap | Sep 22 | - | 1 Low | 80.86 USDC |  [1](https://code4rena.com/reports/2022-09-quickswap#low-risk-and-non-critical-issues) |
+|  QuickSwap and StellaSwap | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-quickswap#gas-optimizations) |
+|  Frax Ether Liquid Staking | Sep 22 | - | 1 Low | 40.88 USDC |  [1](https://code4rena.com/reports/2022-09-frax#low-risk-and-non-critical-issues) |
+|  Frax Ether Liquid Staking | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-frax#gas-optimizations) |
+|  VTVL | Sep 22 | - | 1 Low | 27.96 USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#low-risk-and-non-critical-issues) |
+|  VTVL | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#gas-optimizations) |
+|  PartyDAO | Sep 22 | - | 1 Gas optimization | 35.35 USDC |  [1](https://code4rena.com/reports/2022-09-party#gas-optimizations) |
+|  Mimo | Aug 22 | - | 1 Low | 67.51 USDC |  [1](https://code4rena.com/reports/2022-08-mimo#low-risk-and-non-critical-issues) |
+|  Swivel v3 | Jul 22 | - | 1 Low | 44.27 USDC |  [1](https://code4rena.com/reports/2022-07-swivel#low-risk-and-non-critical-issues) |
+|  Fractional v2  | Jul 22 | - | 1 Low | 61.97 USDC  |  [1](https://code4rena.com/reports/2022-07-fractional#low-risk-and-non-critical-issues) |
+|  Juicebox V2  | Jul 22 | - | 1 Low | 89.27 USDC  |  [1](https://code4rena.com/reports/2022-07-juicebox#low-risk-and-non-critical-issues) |
+|  Putty  | Jun 22 | - | 1 Low | 47.13 USDC  |  [1](https://code4rena.com/reports/2022-06-putty#low-risk-and-non-critical-issues) |
+|  Canto v2  | Jun 22 | - | 1 Low | 63.37 USDC |  [1](https://code4rena.com/reports/2022-06-canto-v2#low-risk-and-non-critical-issues) |
+|  Illuminate  | Jun 22 | - | 1 Low | 63.94 USDC |  [1](https://code4rena.com/reports/2022-06-illuminate#low-risk-and-non-critical-issues) |
+|  Volt Protocol  | Mar 22 | - | 1 Low | 61.97 USDC  |  [1](https://code4rena.com/reports/2022-03-volt#low-risk-and-non-critical-issues) |
+
 <!--
 ## Bug Bounty Platforms
 
@@ -46,17 +69,20 @@
 |---------|------|----------|---------|--------|
 | DeFi Protocol 1 | Jan 2025 | Critical | Paid | 50 ETH |
 | Bridge Protocol | Nov 2024 | High | Paid | 25 ETH |
-
+-->
 ## Total Metrics (2024-2025)
 
 | Category | Count |
 |----------|-------|
-| Critical Findings | 12 |
-| High Severity | 24 |
-| Medium Severity | 31 |
-| Total Value Secured | $15M+ |
-| Total Bounties Earned | 250 ETH |
--->
+| Critical | - |
+| High | 6 |
+| Medium | 4 |
+| Low | 20 |
+| Gas optimization | 8 |
+| Informational | 21 |
+| Total findings | 59 |
+
+
 ## Platform Accounts
 
 ### Main Platforms
