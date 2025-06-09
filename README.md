@@ -80,9 +80,9 @@
 | Category | Count |
 |----------|-------|
 | Critical | - |
-| High | 6 |
-| Medium | 4 |
-| Low | 20 |
+| High | 12 |
+| Medium | 6 |
+| Low | 21 |
 | Gas optimization | 8 |
 | Informational | 21 |
 | Total findings | 59 |
