@@ -85,7 +85,7 @@
 | Low | 21 |
 | Gas optimization | 8 |
 | Informational | 21 |
-| Total findings | 59 |
+| Total findings | 68 |
 
 
 ## Platform Accounts
