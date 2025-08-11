@@ -47,13 +47,13 @@
 | Project | Date | Ranking | Findings | Prize | Links |
 |---------|------|---------|----------|-------|-------|
 |  Holograph | Oct 22 | - | 1 Low | 55.67 USDC |  [1](https://code4rena.com/reports/2022-10-holograph#low-risk-and-non-critical-issues) |
-|  Holograph | Oct 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-10-holograph#gas-optimizations) |
+|  Holograph | Oct 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-10-holograph#gas-optimizations) |
 |  The Graph | Oct 22 | - | 1 Gas optimization | $ |  [1](https://code4rena.com/reports/2022-10-thegraph#gas-optimizations) |
 |  QuickSwap and StellaSwap | Sep 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-09-quickswap#low-risk-and-non-critical-issues) |
-|  QuickSwap and StellaSwap | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-quickswap#gas-optimizations) |
+|  QuickSwap and StellaSwap | Sep 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-09-quickswap#gas-optimizations) |
 |  Frax Ether Liquid Staking | Sep 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-09-frax#low-risk-and-non-critical-issues) |
-|  Frax Ether Liquid Staking | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-frax#gas-optimizations) |
-|  VTVL | Sep 22 | - | 1 Low | 27.96 USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#low-risk-and-non-critical-issues) |
+|  Frax Ether Liquid Staking | Sep 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-09-frax#gas-optimizations) |
+|  VTVL | Sep 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#low-risk-and-non-critical-issues) |
 |  VTVL | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#gas-optimizations) |
 |  PartyDAO | Sep 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-09-party#gas-optimizations) |
 |  Mimo | Aug 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-08-mimo#low-risk-and-non-critical-issues) |
