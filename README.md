@@ -54,7 +54,7 @@
 |  Frax Ether Liquid Staking | Sep 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-09-frax#low-risk-and-non-critical-issues) |
 |  Frax Ether Liquid Staking | Sep 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-09-frax#gas-optimizations) |
 |  VTVL | Sep 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#low-risk-and-non-critical-issues) |
-|  VTVL | Sep 22 | - | 1 Gas optimization | - USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#gas-optimizations) |
+|  VTVL | Sep 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-09-vtvl#gas-optimizations) |
 |  PartyDAO | Sep 22 | - | 1 Gas optimization | USDC |  [1](https://code4rena.com/reports/2022-09-party#gas-optimizations) |
 |  Mimo | Aug 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-08-mimo#low-risk-and-non-critical-issues) |
 |  Swivel v3 | Jul 22 | - | 1 Low | USDC |  [1](https://code4rena.com/reports/2022-07-swivel#low-risk-and-non-critical-issues) |
